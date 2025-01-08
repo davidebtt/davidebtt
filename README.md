@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @davidebtt
-- 👀 I’m interested in coding for chemistry softwares
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on scientific projects
-- 📫 How to reach me davide.botteri92@gmail.com
+❃  ɪ’м @davidebtt  
+❋  ɪ’м ιηтєяєѕтє∂ ιη ¢◎∂ιηɢ ғ◎я ¢нємιѕтяу ѕ◎ғтѡαяєѕ  
+✾  ι’м ¢υяяєηтℓу ℓєαяηιηɢ ρүтн◎η  
+✥  ι’м ℓ◎◎кιηɢ т◎ ¢◎ℓℓαв◎яαтє ◎η ѕ¢ιєηтιғι¢ ρя◎נє¢тѕ  
+✣  н◎ѡ т◎ яєα¢н мє: davide.botteri92@gmail.com  
+
 
 <!---
 davidebtt/davidebtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
